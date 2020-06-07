@@ -1,0 +1,14 @@
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\bin\Debug\netcoreapp2.1\Database_API_SimonHolt.deps.json
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\bin\Debug\netcoreapp2.1\Database_API_SimonHolt.runtimeconfig.json
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\bin\Debug\netcoreapp2.1\Database_API_SimonHolt.runtimeconfig.dev.json
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\bin\Debug\netcoreapp2.1\Database_API_SimonHolt.dll
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\obj\Debug\netcoreapp2.1\Database_API_SimonHolt.csprojAssemblyReference.cache
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\obj\Debug\netcoreapp2.1\Database_API_SimonHolt.csproj.CoreCompileInputs.cache
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\obj\Debug\netcoreapp2.1\Database_API_SimonHolt.RazorAssemblyInfo.cache
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\obj\Debug\netcoreapp2.1\Database_API_SimonHolt.RazorAssemblyInfo.cs
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\obj\Debug\netcoreapp2.1\Database_API_SimonHolt.AssemblyInfoInputs.cache
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\obj\Debug\netcoreapp2.1\Database_API_SimonHolt.AssemblyInfo.cs
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\obj\Debug\netcoreapp2.1\Database_API_SimonHolt.RazorTargetAssemblyInfo.cache
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\bin\Debug\netcoreapp2.1\Database_API_SimonHolt.pdb
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\obj\Debug\netcoreapp2.1\Database_API_SimonHolt.dll
+C:\Users\Holt\Documents\Database_API_SimonHolt\Database_API_SimonHolt\obj\Debug\netcoreapp2.1\Database_API_SimonHolt.pdb
